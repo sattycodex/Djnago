@@ -1,0 +1,14 @@
+.first{
+    color: red;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #f8f9fa; !important
+}
+
+.btn-outline-success {
+    color: #f8f9fa; !important
+    border-color: #f8f9fa; !important
+}
+.btn-outline-success {
+    border-color: #f8f9fa; !important
+}
